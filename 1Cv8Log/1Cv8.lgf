@@ -22,4 +22,9 @@
 {4,"_$Transaction$_.Begin",11},
 {4,"_$Data$_.Update",12},
 {5,d8a35497-7f59-4e1d-9043-ef07700fd637,"Справочник.Изделия",1},
-{4,"_$Transaction$_.Commit",13}
+{4,"_$Transaction$_.Commit",13},
+{5,ad83519e-6ad4-45a7-944f-182de3e406fe,"Документ.Заказ",2},
+{4,"_$Data$_.Post",14},
+{4,"_$Transaction$_.Rollback",15},
+{5,958b2a58-e877-496f-8ed5-9d2e26da7731,"РегистрСведений.ИсторияСтатусов",3},
+{4,"_$Data$_.Unpost",16}
